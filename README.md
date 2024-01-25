@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Kyle Sanchez ====================================================================================================================================  Computer Science kid --------------------  studying(?)lol
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Kyle Sanchez ====================================================================================================================================  Computer Science kid --------------------  studying(?)lol
 
 <a href="https://www.github.com/kylsnchz12" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/kylsnchz12?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
 ### Skills  
@@ -26,5 +25,3 @@ Here are some ideas to get you started:
 
 <a href="http://www.github.com/kylsnchz12"><img src="https://github-readme-stats.vercel.app/api?username=kylsnchz12&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="kylsnchz12's GitHub stats" /></a>
 <a href="http://www.github.com/kylsnchz12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kylsnchz12&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="http://www.github.com/kylsnchz12"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kylsnchz12&bg_color=0f172a&color=ffffff&line=14b8a6&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
