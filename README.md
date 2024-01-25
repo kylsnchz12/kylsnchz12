@@ -12,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Kyle Sanchez ====================================================================================================================================  Computer Science kid --------------------  studying(?)lol
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Kyle Sanchez ====================================================================================================================================  
+Computer Science kid 
+--------------------  
+studying(?)lol
 
 <a href="https://www.github.com/kylsnchz12" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/kylsnchz12?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a>
 ### Skills  
